@@ -1,7 +1,7 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Pablo Arrabal Espinosa
+tagline:             'Políticas y avisos legales'
+description:         'Esta es una web en la que se almacenan los documentos legales'
 url:                 https://legal-86t.pages.dev/
 baseurl:             ''
 paginate:            5
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Pablo Arrabal Espinosa
+  url:               https://twitter.com/nuoframework
+  email:             contacto@pabloarrabal.com
 
 # Gems
 plugins:
