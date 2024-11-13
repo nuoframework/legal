@@ -2,7 +2,7 @@
 title:               Pablo Arrabal Espinosa
 tagline:             'Políticas y avisos legales'
 description:         'En esta web se almacenan los documentos legales'
-url:                 https://legal-86t.pages.dev/
+url:                 https://legal-86t.pages.dev
 baseurl:             ''
 paginate:            5
 permalink:           pretty
