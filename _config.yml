@@ -1,7 +1,7 @@
 # Setup
 title:               Pablo Arrabal Espinosa
 tagline:             'Políticas y avisos legales'
-description:         'Esta es una web en la que se almacenan los documentos legales'
+description:         'En esta web se almacenan los documentos legales'
 url:                 https://legal-86t.pages.dev/
 baseurl:             ''
 paginate:            5
